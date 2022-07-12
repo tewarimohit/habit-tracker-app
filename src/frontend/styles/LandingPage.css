@@ -1,0 +1,15 @@
+.d-flex {
+	display: flex;
+}
+.text-center {
+	text-align: center;
+}
+.flex-col {
+	flex-direction: column;
+}
+.landing-img {
+}
+
+.ml-2 {
+	margin-left: 2rem;
+}
