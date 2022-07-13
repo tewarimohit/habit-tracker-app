@@ -7,8 +7,11 @@
 
 body {
 	font-family: "Libre Baskerville", serif;
-	color: #00bfa6;
+	color: #0f766e;
 	background-color: #ccfbf1;
+}
+.habit-light-text {
+	color: #00bfa6;
 }
 .d-flex {
 	display: flex;
@@ -28,4 +31,9 @@ body {
 	justify-content: space-around;
 	align-items: center;
 }
-
+.mb2 {
+	margin-bottom: 2rem;
+}
+.mb1 {
+	margin-bottom: 1rem;
+}

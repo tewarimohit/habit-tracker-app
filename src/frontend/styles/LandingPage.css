@@ -13,3 +13,12 @@
 .ml-2 {
 	margin-left: 2rem;
 }
+
+.landing-btn {
+	color: var(--primary-colorone);
+	background-color: #0f766e;
+	border-color: var(--primary-colorone);
+}
+.landing-btn:hover {
+	background-color: #2dd4bf;
+}
