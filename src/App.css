@@ -10,3 +10,22 @@ body {
 	color: #00bfa6;
 	background-color: #ccfbf1;
 }
+.d-flex {
+	display: flex;
+}
+
+.flex-col {
+	flex-direction: column;
+}
+.d-flex-c-s {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.d-flex-c-a {
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+
